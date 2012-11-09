@@ -87,10 +87,16 @@ class List99Spec extends Specification {
     "return 3 for a 3 element list" in {
       List99.length(List("a","b", "c")) must_== 3
     }
-//
-//    "throw exception for 1 element list" in {
-//      List99.nth(1, List(1)) must throwAn[Error]
-//    }
+  }
+
+  "flatten" should {
+    "flatten non nested list" in {
+      List99.flatten(List("a", "b")) must_== List("a", "b")
+    }
+
+    "flatten one level nested list" in {
+      List99.flatten(List(List("a"), "b")) must_== List("a", "b")
+    }
   }
 
 }

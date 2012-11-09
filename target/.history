@@ -42,3 +42,7 @@ test
 exit
 ~test
 exit
+clean
+exit
+~test
+exit

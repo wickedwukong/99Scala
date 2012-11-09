@@ -283,7 +283,7 @@
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.1 in compile-internal: excluding org.scala-lang#scala-library;2.9.1!scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#specs2_2.9.1;1.12.2!specs2_2.9.1.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#specs2-scalaz-core_2.9.1;6.0.1!specs2-scalaz-core_2.9.1.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 305ms :: artifacts dl 14ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 563ms :: artifacts dl 12ms[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
@@ -332,5 +332,5 @@
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 docs produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/docs-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 pom produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/pom-resolved.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (305ms resolve - 14ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (563ms resolve - 12ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

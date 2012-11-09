@@ -28,8 +28,12 @@
 [0m[[0minfo[0m] [0m[32m+[0m return 2 for a 2 element list[0m
 [0m[[0minfo[0m] [0m[32m+[0m return 3 for a 3 element list[0m
 [0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mflatten should[0m
+[0m[[0minfo[0m] [0m[32m+[0m flatten non nested list[0m
+[0m[[0minfo[0m] [0m[32m+[0m flatten one level nested list[0m
+[0m[[0minfo[0m] [0m [0m
 [0m[[0minfo[0m] [0m [0m
 [0m[[0minfo[0m] [0mTotal for specification List99Spec[0m
-[0m[[0minfo[0m] [0m[34mFinished in 19 ms[0m[0m
-[0m[[0minfo[0m] [0m[34m18 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[34mFinished in 100 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m20 examples, 0 failure, 0 error[0m[0m
 [0m[[0minfo[0m] [0m[0m

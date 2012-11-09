@@ -25,6 +25,12 @@ object List99 {
 
   def length[T](list: List[T]): Int = {
     list.foldLeft(0)((count, elem) => count + 1)
+  }
 
+  def flatten(list: List[Any]): List[Any] = {
+    list.flatMap {
+     case nested: List[_] => flatten(nested)
+     case a => List(a)
+    }
   }
 }
