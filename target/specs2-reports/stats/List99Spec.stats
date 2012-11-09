@@ -22,3 +22,35 @@
 <List99Spec-stats timestamp="1352476841942"><stats expectations="8" examples="8" successes="8" time="21"><trend><stats failures="-1" successes="1" time="21"></stats></trend></stats></List99Spec-stats>
 <List99Spec-stats timestamp="1352476956128"><stats expectations="8" examples="8" successes="8" time="13"></stats></List99Spec-stats>
 <List99Spec-stats timestamp="1352476965437"><stats expectations="8" examples="8" successes="8" time="31"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352477442762"><stats expectations="9" examples="9" successes="9" time="22"><trend><stats expectations="1" examples="1" successes="1" time="22"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352477567255"><stats expectations="11" examples="11" successes="11" time="21"><trend><stats expectations="2" examples="2" successes="2" time="21"></stats></trend></stats></List99Spec-stats>
+<List99Spec-results timestamp="1352477578711"><result location="List99Spec (List99Spec.scala:56)" id="425985211"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+</List99Spec-results>
+<List99Spec-stats timestamp="1352477578720"><stats expectations="11" successes="10" examples="11" failures="1" time="17"><trend><stats failures="1" successes="-1" time="17"></stats></trend></stats></List99Spec-stats>
+<List99Spec-results timestamp="1352477636099"><result location="List99Spec (List99Spec.scala:45)" id="291635864"><stats expectations="1" examples="1" errors="1" time="37"></stats></result>
+<result location="List99Spec (List99Spec.scala:56)" id="425985211"><stats expectations="1" examples="1" errors="1" time="36"></stats></result>
+</List99Spec-results>
+<List99Spec-stats timestamp="1352477636107"><stats expectations="11" successes="9" examples="11" errors="2" time="19"><trend><stats failures="-1" successes="-1" errors="2" time="19"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352477671006"><stats expectations="11" examples="11" successes="11" time="16"><trend><stats errors="-2" successes="2" time="16"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352477730693"><stats expectations="12" examples="12" successes="12" time="15"><trend><stats expectations="1" examples="1" successes="1" time="15"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352477827330"><stats expectations="13" examples="13" successes="13" time="15"><trend><stats expectations="1" examples="1" successes="1" time="15"></stats></trend></stats></List99Spec-stats>
+<List99Spec-results timestamp="1352477862627"><result location="List99Spec (List99Spec.scala:53)" id="2129328084"><stats expectations="1" examples="1" failures="1" time="9"></stats></result>
+</List99Spec-results>
+<List99Spec-stats timestamp="1352477862635"><stats expectations="13" successes="12" examples="13" failures="1" time="24"><trend><stats failures="1" successes="-1" time="24"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352477886717"><stats expectations="13" examples="13" successes="13" time="22"><trend><stats failures="-1" successes="1" time="22"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352478050834"><stats expectations="14" examples="14" successes="14" time="30"><trend><stats expectations="1" examples="1" successes="1" time="30"></stats></trend></stats></List99Spec-stats>
+<List99Spec-results timestamp="1352478388647"><result location="List99Spec (List99Spec.scala:53)" id="2129328084"><stats expectations="1" examples="1" failures="1" time="10"></stats></result>
+<result location="List99Spec (List99Spec.scala:69)" id="1623769459"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+</List99Spec-results>
+<List99Spec-stats timestamp="1352478388656"><stats expectations="14" successes="12" examples="14" failures="2" time="20"><trend><stats failures="2" successes="-2" time="20"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352478413469"><stats expectations="14" examples="14" successes="14" time="14"><trend><stats failures="-2" successes="2" time="14"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352478554344"><stats expectations="15" examples="15" successes="15" time="15"><trend><stats expectations="1" examples="1" successes="1" time="15"></stats></trend></stats></List99Spec-stats>
+<List99Spec-results timestamp="1352478601880"><result location="List99Spec (List99Spec.scala:79)" id="-1482556314"><stats expectations="1" examples="1" failures="1" time="7"></stats></result>
+</List99Spec-results>
+<List99Spec-stats timestamp="1352478601895"><stats expectations="16" successes="15" examples="16" failures="1" time="17"><trend><stats expectations="1" examples="1" failures="1" time="17"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352478649294"><stats expectations="16" examples="16" successes="16" time="27"><trend><stats failures="-1" successes="1" time="27"></stats></trend></stats></List99Spec-stats>
+<List99Spec-results timestamp="1352478689887"><result location="List99Spec (List99Spec.scala:83)" id="268796068"><stats expectations="1" examples="1" failures="1" time="7"></stats></result>
+</List99Spec-results>
+<List99Spec-stats timestamp="1352478689895"><stats expectations="17" successes="16" examples="17" failures="1" time="25"><trend><stats expectations="1" examples="1" failures="1" time="25"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352478721207"><stats expectations="17" examples="17" successes="17" time="26"><trend><stats failures="-1" successes="1" time="26"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352478782750"><stats expectations="18" examples="18" successes="18" time="19"><trend><stats expectations="1" examples="1" successes="1" time="19"></stats></trend></stats></List99Spec-stats>

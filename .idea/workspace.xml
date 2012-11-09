@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c39d76c-77e2-4df7-8e44-23d587c722d6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/List99.scala" afterPath="$PROJECT_DIR$/src/main/scala/List99.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/List99Spec.scala" afterPath="$PROJECT_DIR$/src/test/scala/List99Spec.scala" />
     </list>
@@ -84,7 +82,7 @@
       <file leaf-file-name="List99Spec.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/List99Spec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="22" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
+            <state line="87" column="49" selection-start="2171" selection-end="2171" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -95,7 +93,7 @@
       <file leaf-file-name="List99.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/List99.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="396" selection-end="396" vertical-scroll-proportion="0.28070176">
+            <state line="26" column="47" selection-start="694" selection-end="694" vertical-scroll-proportion="0.45614034">
               <folding />
             </state>
           </provider>
@@ -485,7 +483,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/List99Spec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="22" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
+        <state line="87" column="49" selection-start="2171" selection-end="2171" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -494,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/List99.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="396" selection-end="396" vertical-scroll-proportion="0.28070176">
+        <state line="26" column="47" selection-start="694" selection-end="694" vertical-scroll-proportion="0.45614034">
           <folding />
         </state>
       </provider>

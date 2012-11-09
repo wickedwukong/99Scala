@@ -12,8 +12,24 @@
 [0m[[0minfo[0m] [0m[32m+[0m throw exception for 1 element list[0m
 [0m[[0minfo[0m] [0m[32m+[0m throw exception for empty list[0m
 [0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mnth with parameter 0 should[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the first element in a 1 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the first element in a 2 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m throw exception for 0 element list[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mnth with parameter 1 should[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the last element in a 2 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the second element in a 3 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m throw exception for 1 element list[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mlength should[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the 0 for an empty list[0m
+[0m[[0minfo[0m] [0m[32m+[0m return 1 for a 1 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m return 2 for a 2 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m return 3 for a 3 element list[0m
+[0m[[0minfo[0m] [0m [0m
 [0m[[0minfo[0m] [0m [0m
 [0m[[0minfo[0m] [0mTotal for specification List99Spec[0m
-[0m[[0minfo[0m] [0m[34mFinished in 31 ms[0m[0m
-[0m[[0minfo[0m] [0m[34m8 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[34mFinished in 19 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m18 examples, 0 failure, 0 error[0m[0m
 [0m[[0minfo[0m] [0m[0m
