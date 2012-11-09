@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mList99Spec[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mlast should[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the last element in a 2 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the last element in a 3 element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m return the element in a one element list[0m
+[0m[[0minfo[0m] [0m[32m+[0m must throw exception for empty list[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mTotal for specification List99Spec[0m
+[0m[[0minfo[0m] [0m[34mFinished in 19 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m4 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m
