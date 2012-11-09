@@ -6,4 +6,12 @@ object List99 {
      case Nil => throw new Error("last elemenet of empty list")
    }
  }
+
+  def penultimate[T](list: List[T]): T = {
+    list match {
+      case List(a, b) => a
+      case head :: tail => penultimate(tail)
+      case _ => throw new Error("Empty list")
+    }
+  }
 }
