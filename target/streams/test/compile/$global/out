@@ -2,27 +2,27 @@
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
 [0m[[0mdebug[0m] [0m	added: Set()[0m
-[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Users/wickedwukong/development/99Scala/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala)[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
-[0m[[0mdebug[0m] [0mModified external sources: Set(List99$)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/wickedwukong/development/99Scala/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
-[0m[[0mdebug[0m] [0m	external source: Set(/Users/wickedwukong/development/99Scala/src/test/scala/List99Spec.scala)[0m
-[0m[[0mdebug[0m] [0mInitially invalidated: Set(/Users/wickedwukong/development/99Scala/src/test/scala/List99Spec.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/Users/wickedwukong/development/99Scala/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala)[0m
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/wickedwukong/development/99Scala/target/scala-2.9.1/test-classes...[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 6c1fe5c0, interfacing (CompilerInterface) with Scala compiler version 2.9.1.final[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 440571d3, interfacing (CompilerInterface) with Scala compiler version 2.9.1.final[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-d[0m
 [0m[[0mdebug[0m] [0m	/Users/wickedwukong/development/99Scala/target/scala-2.9.1/test-classes[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar:/Users/wickedwukong/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/Users/wickedwukong/development/99Scala/target/scala-2.9.1/test-classes:/Users/wickedwukong/development/99Scala/target/scala-2.9.1/classes:/Users/wickedwukong/.ivy2/cache/org.specs2/specs2_2.9.1/jars/specs2_2.9.1-1.12.2.jar:/Users/wickedwukong/.ivy2/cache/org.specs2/specs2-scalaz-core_2.9.1/jars/specs2-scalaz-core_2.9.1-6.0.1.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 4.654651 s[0m
+[0m[[0mdebug[0m] [0m	/Users/wickedwukong/development/99Scala/target/scala-2.9.1/test-classes:/Users/wickedwukong/development/99Scala/target/scala-2.9.1/classes:/Users/wickedwukong/.ivy2/cache/org.specs2/specs2_2.9.1/jars/specs2_2.9.1-1.12.2.jar:/Users/wickedwukong/.ivy2/cache/org.specs2/specs2-scalaz-core_2.9.1/jars/specs2-scalaz-core_2.9.1-6.0.1.jar:/Users/wickedwukong/.ivy2/cache/junit/junit/jars/junit-4.8.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.390937 s[0m
 [0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
 [0m[[0mdebug[0m] [0m	Set()[0m
 [0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m

@@ -8,6 +8,7 @@ scalaVersion := "2.9.1"
 
 
 libraryDependencies ++= Seq(
-  "org.specs2" %% "specs2" % "1.12.2" % "test"
+  "org.specs2" %% "specs2" % "1.12.2" % "test",
+  "junit" % "junit" % "4.8.1" % "test"
 )
 

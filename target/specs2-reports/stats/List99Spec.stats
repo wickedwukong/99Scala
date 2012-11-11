@@ -1,8 +1,23 @@
-<List99Spec-stats timestamp="1352482237224"><stats expectations="19" examples="19" successes="19" time="21"></stats></List99Spec-stats>
-<List99Spec-results timestamp="1352482407430"><result location="List99Spec (List99Spec.scala:97)" id="198665013"><stats expectations="1" examples="1" failures="1" time="12"></stats></result>
-</List99Spec-results>
-<List99Spec-stats timestamp="1352482407434"><stats expectations="20" successes="19" examples="20" failures="1" time="16"><trend><stats expectations="1" examples="1" failures="1" time="16"></stats></trend></stats></List99Spec-stats>
-<List99Spec-results timestamp="1352482449522"><result location="List99Spec (List99Spec.scala:97)" id="198665013"><stats expectations="1" examples="1" failures="1" time="10"></stats></result>
-</List99Spec-results>
-<List99Spec-stats timestamp="1352482449529"><stats expectations="20" successes="19" examples="20" failures="1" time="24"></stats></List99Spec-stats>
-<List99Spec-stats timestamp="1352485072072"><stats expectations="20" examples="20" successes="20" time="100"><trend><stats failures="-1" successes="1" time="100"></stats></trend></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633206439"><stats expectations="20" examples="20" successes="20" time="16"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633247427"><stats expectations="20" examples="20" successes="20" time="16"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633294665"><stats expectations="20" examples="20" successes="20" time="27"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633463054"><stats expectations="20" examples="20" successes="20" time="15"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633473100"><stats expectations="20" examples="20" successes="20" time="15"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633492104"><stats expectations="20" examples="20" successes="20" time="20"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633500616"><stats expectations="20" examples="20" successes="20" time="23"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352633717829"><stats expectations="20" examples="20" successes="20" time="16"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352635967822"><stats expectations="20" examples="20" successes="20" time="15"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352635987009"><stats expectations="20" examples="20" successes="20" time="19"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352643976318"><stats expectations="20" examples="20" successes="20" time="16"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352644027831"><stats expectations="20" examples="20" successes="20" time="34"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352644111365"><stats expectations="20" examples="20" successes="20" time="14"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352644133788"><stats expectations="20" examples="20" successes="20" time="15"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647226624"><stats expectations="20" examples="20" successes="20" time="15"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647352028"><stats expectations="20" examples="20" successes="20" time="18"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647365460"><stats expectations="20" examples="20" successes="20" time="15"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647409245"><stats expectations="20" examples="20" successes="20" time="23"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647424074"><stats expectations="20" examples="20" successes="20" time="15"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647452965"><stats expectations="20" examples="20" successes="20" time="17"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647517353"><stats expectations="20" examples="20" successes="20" time="24"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647571144"><stats expectations="20" examples="20" successes="20" time="16"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1352647663107"><stats expectations="20" examples="20" successes="20" time="19"></stats></List99Spec-stats>

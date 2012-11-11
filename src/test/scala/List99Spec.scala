@@ -1,6 +1,7 @@
 import org.specs2.mutable.Specification
 import scala.Predef._
 import org.specs2.matcher._
+
 import org.specs2.runner.JUnitRunner
 
 class List99Spec extends Specification {

@@ -46,3 +46,32 @@ clean
 exit
 ~test
 exit
+~test
+gen-idea
+compile
+~compile
+~test
+clean
+~test
+gen-idea
+~compile
+~test
+test
+last test:test
+~test
+last test:test
+clean
+~test
+last test:test
+~test
+clean
+test
+~test
+last test:test
+~test
+reload
+test
+~test
+test
+~test
+exit
