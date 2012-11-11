@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c39d76c-77e2-4df7-8e44-23d587c722d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/compile/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/compile/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/inc_compile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/succeeded_tests" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/succeeded_tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/specs2-reports/stats/List99Spec.stats" afterPath="$PROJECT_DIR$/target/specs2-reports/stats/List99Spec.stats" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/compilers/$global/out" afterPath="$PROJECT_DIR$/target/streams/$global/compilers/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/data" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/compile/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/compile/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=List99Spec/out" afterPath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=List99Spec/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea_modules/default-7304c2.iml" afterPath="$PROJECT_DIR$/.idea_modules/default-7304c2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/List99Spec.scala" afterPath="$PROJECT_DIR$/src/test/scala/List99Spec.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala" afterPath="$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala" afterPath="$PROJECT_DIR$/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala" />
     </list>
     <ignored path="99scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,10 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProgFunTelephoneNumberTranslatorSpec.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProgFunTelephoneNumberTranslatorSpec.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="111" selection-start="682" selection-end="682" vertical-scroll-proportion="0.24940617">
+            <state line="22" column="17" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -114,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProgFunTelephoneNumberTranslator.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ProgFunTelephoneNumberTranslator.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="129" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+            <state line="15" column="85" selection-start="650" selection-end="650" vertical-scroll-proportion="0.2631579">
               <folding />
             </state>
           </provider>
@@ -151,8 +158,8 @@
         <option value="$PROJECT_DIR$/src/test/scala/ProgFunTelephoneNumberTranslaterSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/List99Spec.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala" />
       </list>
     </option>
   </component>
@@ -717,19 +724,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="129" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/ProgFunTelephoneNumberTranslatorSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="111" selection-start="682" selection-end="682" vertical-scroll-proportion="0.24940617">
+        <state line="22" column="17" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ProgFunTelephoneNumberTranslator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="85" selection-start="650" selection-end="650" vertical-scroll-proportion="0.2631579">
+          <folding />
         </state>
       </provider>
     </entry>
