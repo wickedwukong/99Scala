@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/default-7304c2.iml" filepath="$PROJECT_DIR$/.idea_modules/default-7304c2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/default-7304c2-build.iml" filepath="$PROJECT_DIR$/.idea_modules/default-7304c2-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/99Scala.iml" filepath="$PROJECT_DIR$/.idea_modules/99Scala.iml" />
     </modules>
   </component>
 </project>
