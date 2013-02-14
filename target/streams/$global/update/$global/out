@@ -31,6 +31,140 @@
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.1 of rootConf=compile[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.antlr#stringtemplate;4.0.2[0m
+[0m[[0minfo[0m] [0mResolving org.antlr#stringtemplate;4.0.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.antlr#stringtemplate;4.0.2 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/org.antlr/stringtemplate/ivy-4.0.2.xml[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.antlr#stringtemplate;4.0.2 (resolved by public): /Users/wickedwukong/.ivy2/cache/org.antlr/stringtemplate/ivy-4.0.2.xml[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/org.antlr/stringtemplate/ivy-4.0.2.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.antlr#stringtemplate;4.0.2 (resolved by public): /Users/wickedwukong/.ivy2/cache/org.antlr/stringtemplate/ivy-4.0.2.xml[0m
+[0m[[0mdebug[0m] [0m	local: revision in cache: org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0m	checking org.antlr#stringtemplate;4.0.2 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.antlr#stringtemplate;4.0.2 from public[0m
+[0m[[0mdebug[0m] [0m	found org.antlr#stringtemplate;4.0.2 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.antlr#antlr-runtime;3.3[0m
+[0m[[0minfo[0m] [0mResolving org.antlr#antlr-runtime;3.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.antlr#antlr-runtime;3.3 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/org.antlr/antlr-runtime/ivy-3.3.xml[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.antlr#antlr-runtime;3.3 (resolved by public): /Users/wickedwukong/.ivy2/cache/org.antlr/antlr-runtime/ivy-3.3.xml[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/org.antlr/antlr-runtime/ivy-3.3.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.antlr#antlr-runtime;3.3 (resolved by public): /Users/wickedwukong/.ivy2/cache/org.antlr/antlr-runtime/ivy-3.3.xml[0m
+[0m[[0mdebug[0m] [0m	local: revision in cache: org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0m	checking org.antlr#antlr-runtime;3.3 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.antlr#antlr-runtime;3.3 from public[0m
+[0m[[0mdebug[0m] [0m	found org.antlr#antlr-runtime;3.3 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mcompile is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mcompile is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mcompile is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mcompile is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mcompile is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mcompile is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m	using sbt-chain to resolve joda-time#joda-time;2.1[0m
+[0m[[0minfo[0m] [0mResolving joda-time#joda-time;2.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: joda-time#joda-time;2.1 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/joda-time/joda-time/ivy-2.1.xml[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for joda-time#joda-time;2.1 (resolved by public): /Users/wickedwukong/.ivy2/cache/joda-time/joda-time/ivy-2.1.xml[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/joda-time/joda-time/ivy-2.1.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for joda-time#joda-time;2.1 (resolved by public): /Users/wickedwukong/.ivy2/cache/joda-time/joda-time/ivy-2.1.xml[0m
+[0m[[0mdebug[0m] [0m	local: revision in cache: joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0m	checking joda-time#joda-time;2.1 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: joda-time#joda-time;2.1 from public[0m
+[0m[[0mdebug[0m] [0m	found joda-time#joda-time;2.1 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.joda#joda-convert;1.3[0m
+[0m[[0minfo[0m] [0mResolving org.joda#joda-convert;1.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.joda#joda-convert;1.3 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.joda#joda-convert;1.3: tried /Users/wickedwukong/.ivy2/cache/org.joda/joda-convert/ivy-1.3.xml[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.joda#joda-convert;1.3: tried /Users/wickedwukong/.ivy2/cache/org.joda/joda-convert/ivy-1.3.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /Users/wickedwukong/.ivy2/local/org.joda/joda-convert/1.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /Users/wickedwukong/.ivy2/local/org.joda/joda-convert/1.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.joda#joda-convert;1.3: res=/Users/wickedwukong/.ivy2/local/org.joda/joda-convert/1.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mpublic: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.joda#joda-convert;1.3: tried /Users/wickedwukong/.ivy2/cache/org.joda/joda-convert/ivy-1.3.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom (1.3)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@2c39f3bb[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.joda#joda-convert;1.3: tried /Users/wickedwukong/.ivy2/cache/org.joda/joda-convert/ivy-1.3.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom[0m
+[0m[[0mdebug[0m] [0m		to /Users/wickedwukong/.ivy2/cache/org.joda/joda-convert/ivy-1.3.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /var/folders/zr/0x2y98mx2hgc7qzhn5nq5vn80000gn/T/ivytmp2888487628596063032sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.joda#joda-convert;1.3!joda-convert.pom(pom.original) (3540ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /Users/wickedwukong/.ivy2/local/org.joda/joda-convert/1.3/jars/joda-convert.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/wickedwukong/.ivy2/local/org.joda/joda-convert/1.3/jars/joda-convert.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.joda#joda-convert;1.3: res=/Users/wickedwukong/.ivy2/local/org.joda/joda-convert/1.3/jars/joda-convert.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for org.joda#joda-convert;1.3; parsed=org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0m	checking org.joda#joda-convert;1.3 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.joda#joda-convert;1.3 from public[0m
+[0m[[0mdebug[0m] [0m	found org.joda#joda-convert;1.3 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for 99scala#99scala_2.9.1;1.0 [runtime][0m
 [0m[[0mdebug[0m] [0mloadData of 99scala#99scala_2.9.1;1.0 of rootConf=runtime[0m
@@ -47,6 +181,70 @@
 [0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime[0m
 [0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for 99scala#99scala_2.9.1;1.0 [test][0m
@@ -67,6 +265,70 @@
 [0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test[0m
 [0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.specs2#specs2_2.9.1;1.12.2 [test->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.specs2#specs2_2.9.1;1.12.2 of rootConf=test[0m
@@ -132,8 +394,6 @@
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: junit#junit;4.8.1 {test=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/junit/junit/ivy-4.8.1.xml[0m
 [0m[[0mdebug[0m] [0mpre 1.3 ivy file: using exactOrRegexp as default matcher[0m
-[0m[[0mdebug[0m] [0m	resolver not found: default => trying to use the one configured for junit#junit;4.8.1[0m
-[0m[[0mdebug[0m] [0m	configured resolver found for junit#junit;4.8.1: sbt-chain: saving this data[0m
 [0m[[0mdebug[0m] [0m	found ivy file in cache for junit#junit;4.8.1 (resolved by sbt-chain): /Users/wickedwukong/.ivy2/cache/junit/junit/ivy-4.8.1.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: junit#junit;4.8.1[0m
 [0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /Users/wickedwukong/.ivy2/cache/junit/junit/ivy-4.8.1.xml[0m
@@ -171,6 +431,70 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.1 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for 99scala#99scala_2.9.1;1.0 [optional][0m
 [0m[[0mdebug[0m] [0mloadData of 99scala#99scala_2.9.1;1.0 of rootConf=compile-internal[0m
 [0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
@@ -197,6 +521,70 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.1 of rootConf=runtime-internal[0m
 [0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for 99scala#99scala_2.9.1;1.0 [optional][0m
 [0m[[0mdebug[0m] [0mloadData of 99scala#99scala_2.9.1;1.0 of rootConf=runtime-internal[0m
 [0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
@@ -222,6 +610,70 @@
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: junit#junit;4.8.2 {test=[runtime(*), master(*)]} => dependency: junit#junit;4.5 {test=[runtime(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#stringtemplate;4.0.2->org.antlr#antlr-runtime;3.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#antlr-runtime;3.3 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;3.2.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;3.2.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is evicted.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.antlr#antlr-runtime;3.3->org.antlr#stringtemplate;4.0.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.antlr#stringtemplate;4.0.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.antlr#stringtemplate;4.0.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->joda-time#joda-time;2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of joda-time#joda-time;2.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.joda#joda-convert;1.3 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.joda#joda-convert;1.3 of rootConf=test-internal[0m
 [0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies 99scala#99scala_2.9.1;1.0->org.specs2#specs2_2.9.1;1.12.2 [test->default(compile)][0m
 [0m[[0mdebug[0m] [0mloadData of org.specs2#specs2_2.9.1;1.12.2 of rootConf=test-internal[0m
@@ -286,9 +738,23 @@
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for 99scala#99scala_2.9.1;1.0 [pom][0m
 [0m[[0mdebug[0m] [0mloadData of 99scala#99scala_2.9.1;1.0 of rootConf=pom[0m
-[0m[[0mdebug[0m] [0mNbr of module to sort : 4[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 8[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#stringtemplate;4.0.2 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#stringtemplate depends on junit#junit;4.8.2, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#antlr-runtime;3.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#antlr-runtime depends on org.antlr#stringtemplate;3.2.1, doesn't match org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : joda-time#joda-time;2.1 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on org.joda#joda-convert;1.2, doesn't match org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on junit#junit;3.8.2, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort done for : joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.joda#joda-convert;1.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.joda#joda-convert depends on junit#junit;4.5, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort done for : org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mModule descriptor is processed : org.antlr#antlr-runtime;3.3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.specs2#specs2_2.9.1;1.12.2 / Number of dependencies = 9[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.specs2#specs2-scalaz-core_2.9.1;6.0.1 / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-lang#scala-library;2.9.1[0m
@@ -318,21 +784,70 @@
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.1 in runtime: excluding org.scala-lang#scala-library;2.9.1!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.1 in runtime-internal: excluding org.scala-lang#scala-library;2.9.1!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.1 in compile-internal: excluding org.scala-lang#scala-library;2.9.1!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.antlr#stringtemplate;4.0.2!stringtemplate.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] joda-time#joda-time;2.1!joda-time.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar[0m
+[0m[[0mdebug[0m] [0m		to /Users/wickedwukong/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.3.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /var/folders/zr/0x2y98mx2hgc7qzhn5nq5vn80000gn/T/ivytmp5690258775882855806sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/joda/joda-convert/1.3/joda-convert-1.3.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.joda#joda-convert;1.3!joda-convert.jar (1633ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.antlr#antlr-runtime;3.3!antlr-runtime.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#specs2_2.9.1;1.12.2!specs2_2.9.1.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] junit#junit;4.8.1!junit.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#specs2-scalaz-core_2.9.1;6.0.1!specs2-scalaz-core_2.9.1.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 190ms :: artifacts dl 5ms[0m
-[0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 5481ms :: artifacts dl 1642ms[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#stringtemplate;4.0.2 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#antlr-runtime;3.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#antlr-runtime depends on org.antlr#stringtemplate;3.2.1, doesn't match org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mModule descriptor is processed : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : joda-time#joda-time;2.1 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on org.joda#joda-convert;1.2, doesn't match org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mSort done for : joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.joda#joda-convert;1.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mSort done for : org.joda#joda-convert;1.3[0m
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 compile produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/compile-resolved.xml[0m
-[0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#stringtemplate;4.0.2 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#antlr-runtime;3.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#antlr-runtime depends on org.antlr#stringtemplate;3.2.1, doesn't match org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mModule descriptor is processed : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : joda-time#joda-time;2.1 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on org.joda#joda-convert;1.2, doesn't match org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mSort done for : joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.joda#joda-convert;1.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mSort done for : org.joda#joda-convert;1.3[0m
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 runtime produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/runtime-resolved.xml[0m
-[0m[[0mdebug[0m] [0mNbr of module to sort : 4[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 8[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#stringtemplate;4.0.2 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#stringtemplate depends on junit#junit;4.8.2, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#antlr-runtime;3.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#antlr-runtime depends on org.antlr#stringtemplate;3.2.1, doesn't match org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mModule descriptor is processed : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : joda-time#joda-time;2.1 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on org.joda#joda-convert;1.2, doesn't match org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on junit#junit;3.8.2, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort done for : joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.joda#joda-convert;1.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.joda#joda-convert depends on junit#junit;4.5, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort done for : org.joda#joda-convert;1.3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.specs2#specs2_2.9.1;1.12.2 / Number of dependencies = 9[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.specs2#specs2-scalaz-core_2.9.1;6.0.1 / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-lang#scala-library;2.9.1[0m
@@ -347,17 +862,53 @@
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 provided produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/provided-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 optional produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/optional-resolved.xml[0m
-[0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#stringtemplate;4.0.2 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#antlr-runtime;3.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#antlr-runtime depends on org.antlr#stringtemplate;3.2.1, doesn't match org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mModule descriptor is processed : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : joda-time#joda-time;2.1 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on org.joda#joda-convert;1.2, doesn't match org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mSort done for : joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.joda#joda-convert;1.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mSort done for : org.joda#joda-convert;1.3[0m
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 compile-internal produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/compile-internal-resolved.xml[0m
-[0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#stringtemplate;4.0.2 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#antlr-runtime;3.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#antlr-runtime depends on org.antlr#stringtemplate;3.2.1, doesn't match org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mModule descriptor is processed : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : joda-time#joda-time;2.1 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on org.joda#joda-convert;1.2, doesn't match org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mSort done for : joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.joda#joda-convert;1.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mSort done for : org.joda#joda-convert;1.3[0m
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 runtime-internal produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/runtime-internal-resolved.xml[0m
-[0m[[0mdebug[0m] [0mNbr of module to sort : 4[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 8[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.1 / Number of dependencies = 0[0m
 [0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#stringtemplate;4.0.2 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#stringtemplate depends on junit#junit;4.8.2, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.antlr#antlr-runtime;3.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.antlr#antlr-runtime depends on org.antlr#stringtemplate;3.2.1, doesn't match org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort done for : org.antlr#stringtemplate;4.0.2[0m
+[0m[[0mdebug[0m] [0mModule descriptor is processed : org.antlr#antlr-runtime;3.3[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : joda-time#joda-time;2.1 / Number of dependencies = 2[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on org.joda#joda-convert;1.2, doesn't match org.joda#joda-convert;1.3[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  joda-time#joda-time depends on junit#junit;3.8.2, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort done for : joda-time#joda-time;2.1[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.joda#joda-convert;1.3 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  org.joda#joda-convert depends on junit#junit;4.5, doesn't match junit#junit;4.8.1[0m
+[0m[[0mdebug[0m] [0mSort done for : org.joda#joda-convert;1.3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.specs2#specs2_2.9.1;1.12.2 / Number of dependencies = 9[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.specs2#specs2-scalaz-core_2.9.1;6.0.1 / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-lang#scala-library;2.9.1[0m
@@ -376,5 +927,5 @@
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 docs produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/docs-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
 [0m[[0mdebug[0m] [0m	report for 99scala#99scala_2.9.1;1.0 pom produced in /Users/wickedwukong/development/99Scala/target/resolution-cache/reports/99scala-99scala_2.9.1/pom-resolved.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (190ms resolve - 5ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (5481ms resolve - 1642ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
