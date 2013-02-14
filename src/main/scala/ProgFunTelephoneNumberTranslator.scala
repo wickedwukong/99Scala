@@ -15,6 +15,14 @@ object ProgFunTelephoneNumberTranslator {
   val charCodeFor: Map[Char, Char] = {
     for ((number, strValue) <- mnem; charValue <- strValue) yield charValue -> number
   }
+
+  def wordCodeFoldleft(word: String): Int = {
+    word.foldLeft("")((seed, char) => seed + charCodeFor(char.toUpper)).toInt
+  }
+
+  def wordCode(word: String): Int = {
+    word.toUpperCase map charCodeFor toInt
+  }
 }
 
 

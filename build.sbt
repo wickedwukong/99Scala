@@ -9,6 +9,9 @@ scalaVersion := "2.9.1"
 
 libraryDependencies ++= Seq(
   "org.specs2" %% "specs2" % "1.12.2" % "test",
-  "junit" % "junit" % "4.8.1" % "test"
+  "junit" % "junit" % "4.8.1" % "test",
+  "org.antlr" % "stringtemplate" % "4.0.2",
+  "joda-time" % "joda-time" % "2.1",
+  "org.joda" % "joda-convert" % "1.3"
 )
 

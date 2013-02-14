@@ -25,4 +25,16 @@ class ProgFunTelephoneNumberTranslatorSpec extends Specification {
     }
   }
 
+  "wordCodeFoldleft" should {
+    "map a word to a number" in {
+      wordCodeFoldleft("Java") must_== 5282
+    }
+  }
+
+  "wordCode" should {
+    "map a word to a number" in {
+      wordCode("Java") must_== 5282
+    }
+  }
+
 }
