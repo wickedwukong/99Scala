@@ -4,39 +4,20 @@
     <list default="true" id="4c39d76c-77e2-4df7-8e44-23d587c722d6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/compile/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/compile/inc_compile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/global/update/inputs" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/global/update/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/global/update/output" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/global/update/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/inc_compile" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/inc_compile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/succeeded_tests" afterPath="$PROJECT_DIR$/target/scala-2.9.1/cache/default-7304c2/test/succeeded_tests" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/classes/HelloWorld$.class" afterPath="$PROJECT_DIR$/target/scala-2.9.1/classes/HelloWorld$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/test-classes/List99Spec$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.9.1/test-classes/List99Spec$$anonfun$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.9.1/test-classes/List99Spec.class" afterPath="$PROJECT_DIR$/target/scala-2.9.1/test-classes/List99Spec.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/specs2-reports/stats/List99Spec.stats" afterPath="$PROJECT_DIR$/target/specs2-reports/stats/List99Spec.stats" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/compilers/$global/out" afterPath="$PROJECT_DIR$/target/streams/$global/compilers/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivy-configuration/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/data" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/data" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/compile/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/compile/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/defined-tests/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/out" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=List99Spec/out" afterPath="$PROJECT_DIR$/target/streams/test/test/is-module=false name=List99Spec/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/scala_2_9_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/scala_2_9_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/99scala/99scala_2.9.1/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/99scala/99scala_2.9.1/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/99scala/99scala_2.9.1/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/99scala/99scala_2.9.1/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/compile-internal-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/compile-internal-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/compile-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/compile-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/docs-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/docs-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/optional-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/optional-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/plugin-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/plugin-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/pom-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/pom-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/provided-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/provided-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/runtime-internal-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/runtime-internal-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/runtime-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/runtime-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/sources-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/sources-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/test-internal-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/test-internal-resolved.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/test-resolved.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/99scala-99scala_2.9.1/test-resolved.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/ChildVoucherGenerator.scala" afterPath="$PROJECT_DIR$/src/main/scala/ChildVoucherGenerator.scala" />
     </list>
     <ignored path="99scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,6 +72,75 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="99scala" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TemplateEngine.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.fusesource.scalate/scalate-core_2.9/srcs/scalate-core_2.9-1.6.1-sources.jar!/org/fusesource/scalate/TemplateEngine.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="7" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChildVoucherGenerator.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/ChildVoucherGenerator.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="116" selection-start="1582" selection-end="1582" vertical-scroll-proportion="0.80733943">
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoderResult.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/nio/charset/CoderResult.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="0" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamDecoder.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/sun/nio/cs/StreamDecoder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="0" selection-start="3121" selection-end="3121" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sbt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="11" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericTraversableTemplate.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/collection/generic/GenericTraversableTemplate.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="145" column="6" selection-start="5669" selection-end="5669" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TraversableLike.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/collection/TraversableLike.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="174" column="6" selection-start="7191" selection-end="7191" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -148,16 +198,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="99Scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -238,6 +278,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="99Scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -528,16 +578,16 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3415493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24754901" sideWeight="0.6701878" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298122" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24754901" sideWeight="0.6713615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3415493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -635,23 +685,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/xml/NodeSeq.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="22" selection-start="1417" selection-end="1417" vertical-scroll-proportion="-1.1855541">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/xml/Node.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="32" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.5316456" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="164" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/List99Spec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="0" selection-end="128" vertical-scroll-proportion="0.0" />
@@ -694,23 +727,59 @@
         <state line="47" column="13" selection-start="2246" selection-end="2246" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/collection/generic/GenericTraversableTemplate.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="6" selection-start="5669" selection-end="5669" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/collection/TraversableLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="6" selection-start="7191" selection-end="7191" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="164" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/joda-time/joda-time/srcs/joda-time-2.1-sources.jar!/org/joda/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="579" column="18" selection-start="21183" selection-end="21183" vertical-scroll-proportion="0.01867995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/runtime/StringAdd.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="6" selection-start="830" selection-end="830" vertical-scroll-proportion="0.28019926">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.fusesource.scalate/scalate-core_2.9/srcs/scalate-core_2.9-1.6.1-sources.jar!/org/fusesource/scalate/RenderContext.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="6" selection-start="1866" selection-end="1866" vertical-scroll-proportion="0.0">
+        <state line="63" column="6" selection-start="1866" selection-end="1866" vertical-scroll-proportion="0.01867995">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.fusesource.scalate/scalate-core_2.9/srcs/scalate-core_2.9-1.6.1-sources.jar!/org/fusesource/scalate/DefaultRenderContext.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="6" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.0">
+        <state line="29" column="6" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.018181818">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.fusesource.scalate/scalate-core_2.9/srcs/scalate-core_2.9-1.6.1-sources.jar!/org/fusesource/scalate/Binding.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="6" selection-start="1659" selection-end="1659" vertical-scroll-proportion="0.0">
+        <state line="50" column="6" selection-start="1659" selection-end="1659" vertical-scroll-proportion="0.6">
           <folding />
         </state>
       </provider>
@@ -722,41 +791,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/collection/generic/GenericTraversableTemplate.scala">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/nio/charset/CoderResult.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="6" selection-start="5669" selection-end="5669" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="11" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+        <state line="50" column="0" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/collection/TraversableLike.scala">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/sun/nio/cs/StreamDecoder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="6" selection-start="7191" selection-end="7191" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.9.1-sources.jar!/scala/runtime/StringAdd.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="6" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/joda-time/joda-time/srcs/joda-time-2.1-sources.jar!/org/joda/time/format/DateTimeFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="579" column="18" selection-start="21183" selection-end="21183" vertical-scroll-proportion="0.0">
+        <state line="61" column="0" selection-start="3121" selection-end="3121" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ChildVoucherGenerator.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="651" selection-end="651" vertical-scroll-proportion="0.51724136">
-          <folding />
+        <state line="49" column="116" selection-start="1582" selection-end="1582" vertical-scroll-proportion="0.80733943">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

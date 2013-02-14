@@ -1,6 +1,8 @@
+[0m[[0mdebug[0m] [0mRunning Test TailRecursionExampleSpec : subclass(false, org.specs2.specification.SpecificationStructure) with arguments [0m
 [0m[[0mdebug[0m] [0mRunning Test ProgFunTelephoneNumberTranslatorSpec : subclass(false, org.specs2.specification.SpecificationStructure) with arguments [0m
 [0m[[0mdebug[0m] [0mRunning Test List99Spec : subclass(false, org.specs2.specification.SpecificationStructure) with arguments [0m
-[0m[[0minfo[0m] [0mPassed: : Total 24, Failed 0, Errors 0, Passed 24, Skipped 0[0m
+[0m[[0minfo[0m] [0mPassed: : Total 26, Failed 0, Errors 0, Passed 26, Skipped 0[0m
 [0m[[0mdebug[0m] [0mPassed tests:[0m
-[0m[[0mdebug[0m] [0m	ProgFunTelephoneNumberTranslatorSpec[0m
+[0m[[0mdebug[0m] [0m	TailRecursionExampleSpec[0m
 [0m[[0mdebug[0m] [0m	List99Spec[0m
+[0m[[0mdebug[0m] [0m	ProgFunTelephoneNumberTranslatorSpec[0m

@@ -1,8 +1,16 @@
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.9.1[0m
 [0m[[0mdebug[0m] [0mOther repositories:[0m
 [0m[[0mdebug[0m] [0mDefault repositories:[0m
-[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@7d9331eb)[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@5f154718)[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.9.1[0m
 [0m[[0mdebug[0m] [0mOther repositories:[0m
 [0m[[0mdebug[0m] [0mDefault repositories:[0m
-[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@245102ff)[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@17aedbde)[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.9.1[0m
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@738a2a09)[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.9.1[0m
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@7d3eea2f)[0m

@@ -1,3 +1,6 @@
+import collection.immutable.IndexedSeq
+import io.{BufferedSource, Source}
+import java.io.{PrintWriter, FileInputStream, File}
 import org.joda.time.format.{DateTimeFormatter, DateTimeFormat}
 import org.joda.time.DateTime
 import org.stringtemplate.v4.ST
@@ -5,29 +8,49 @@ import org.stringtemplate.v4.ST
 object ChildVoucherGenerator extends App {
 
   def loadFile(filePath: String) = {
-    """<html><span>$date$</span></html>"""
+//    """<html><span>$date$</span></html>"""
+
+
+    val file: BufferedSource = Source.fromInputStream(new FileInputStream(new File(filePath)),"UTF-8")
+    val string: String = file.mkString
+    file.close()
+    string
   }
 
 
 
-  def generate(tempaltePath: String, startingMonthString: String, numberOfVouchers: Int, destinationPath: String) = {
+  def generate(templatePath: String, startingMonthString: String, numberOfVouchers: Int, destinationPath: String) = {
 
-    var voucherTemplate = loadFile(tempaltePath)
+    var voucherTemplate = loadFile(templatePath)
+    val startingMonth: DateTime = DateTimeFormat.forPattern("yyyyMM").parseDateTime(startingMonthString)
 
-    val pattern: DateTimeFormatter = DateTimeFormat.forPattern("yyyyMM")
-    val date: DateTime = pattern.parseDateTime(startingMonthString)
 
-    val st: ST = new ST(voucherTemplate, '$', '$')
+    (0 to (numberOfVouchers - 1)).map(x => {
+      val st: ST = new ST(voucherTemplate, '$', '$')
 
-    st.add("date", pattern.print(date))
+      val voucherMonth: String = DateTimeFormat.forPattern("yyyyMM").print(startingMonth.plusMonths(x))
+      st.add("voucherMonth", voucherMonth)
+      val voucher: String = st.render()
+      val writer: PrintWriter = new PrintWriter(new File(destinationPath + "ChildcareVoucher-" + voucherMonth + ".html"), "UTF-8")
 
-    st.render()
+      try {
+        writer.print(voucher)
+      }
+      finally {
+        writer.close()
+      }
+
+    })
+
+
 
   }
 
-  val generate: String = generate("templatePath", "201302", 2, "destinationPath")
+  val destinationPath: String = "/Users/wickedwukong/Dropbox/company/childcare-vouchers/2013/unused/"
+  generate("/Users/wickedwukong/Dropbox/company/childcare-vouchers/2013/unused/ChildcareVoucher-template.htm", "201402", 12, destinationPath)
 
-  println("xxxxx" + generate)
+
+  println("done! voucher generated in " + destinationPath)
 
 
 

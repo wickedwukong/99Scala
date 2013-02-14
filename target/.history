@@ -108,3 +108,5 @@ exit
 gen-idea
 compile
 exit
+test
+exit
