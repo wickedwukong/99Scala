@@ -110,3 +110,9 @@ compile
 exit
 test
 exit
+test
+exit 
+gen-idea
+exit
+test
+exit
