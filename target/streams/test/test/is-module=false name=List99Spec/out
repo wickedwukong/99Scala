@@ -1,5 +1,4 @@
 [info] List99Spec
-[info] 
 [info] last should
 [info] + return the last element in a 2 element list
 [info] + return the last element in a 3 element list
@@ -34,6 +33,6 @@
 [info]  
 [info]  
 [info] Total for specification List99Spec
-[info] Finished in 28 ms
+[info] Finished in 42 ms
 [info] 20 examples, 0 failure, 0 error
-[info] 
+[info]  

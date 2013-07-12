@@ -30,3 +30,4 @@
 <List99Spec-stats timestamp="1360878870849"><stats expectations="20" examples="20" successes="20" time="57"></stats></List99Spec-stats>
 <List99Spec-stats timestamp="1373634158036"><stats expectations="20" examples="20" successes="20" time="60"></stats></List99Spec-stats>
 <List99Spec-stats timestamp="1373634549947"><stats expectations="20" examples="20" successes="20" time="28"></stats></List99Spec-stats>
+<List99Spec-stats timestamp="1373641092472"><stats time="42" expectations="20" successes="20" examples="20"></stats></List99Spec-stats>

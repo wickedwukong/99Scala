@@ -1,2 +1,2 @@
-[debug] Subclass fingerprints: Stream((org.specs2.specification.SpecificationStructure,false,org.specs2.runner.Fingerprints$$anon$1@716268a9), ?)
-[debug] Annotation fingerprints: Stream()
+[debug] Subclass fingerprints: Stream((org.specs2.specification.SpecificationStructure,false,org.specs2.runner.Fingerprints$$anon$1@170bae41), ?)
+[debug] Annotation fingerprints: Stream((org.scalatest.WrapWith,false,org.scalatest.tools.ScalaTestFramework$$anon$2@63db359b), ?)

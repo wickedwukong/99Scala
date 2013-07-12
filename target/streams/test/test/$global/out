@@ -1,8 +1,10 @@
-[debug] Running Test ProgFunTelephoneNumberTranslatorSpec : subclass(false, org.specs2.specification.SpecificationStructure) with arguments 
 [debug] Running Test List99Spec : subclass(false, org.specs2.specification.SpecificationStructure) with arguments 
+[debug] Running Test ProgFunTelephoneNumberTranslatorSpec : subclass(false, org.specs2.specification.SpecificationStructure) with arguments 
 [debug] Running Test TailRecursionExampleSpec : subclass(false, org.specs2.specification.SpecificationStructure) with arguments 
-[info] Passed: : Total 26, Failed 0, Errors 0, Passed 26, Skipped 0
+[debug] Running Test monad.EitherMonadTest : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 30, Failed 0, Errors 0, Passed 30, Skipped 0
 [debug] Passed tests:
 [debug] 	List99Spec
 [debug] 	ProgFunTelephoneNumberTranslatorSpec
 [debug] 	TailRecursionExampleSpec
+[debug] 	monad.EitherMonadTest

@@ -116,3 +116,9 @@ gen-idea
 exit
 test
 exit
+gen-idea
+reload
+gen-idea
+exit
+test
+exit 
